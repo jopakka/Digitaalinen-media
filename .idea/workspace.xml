@@ -2,30 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f3e5454-b290-41d7-ab38-9f81da2d2b24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/10p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/1p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/2p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/3p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/4p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/5p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/6p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/7p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/8p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/9p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/kollaasi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/kuva.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuva_html_v2/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/DSC00096m.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/DSC00096m.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuva_html_v2/img/DSC00096m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuva_html_v2/kuvaformaatit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuva_html_v2/kollaasi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/kuva_html_v2/img/kollaasi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuva_html_v2/kuva.html" beforeDir="false" afterPath="$PROJECT_DIR$/kuva_html_v2/kuva.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuva_html_v2/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/kuva_html_v2/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -68,12 +53,13 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jopak\WebstormProjects\digitaalinenMedia\tehtava1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jopak\WebstormProjects\digitaalinenMedia\kuva_html_v2\img" />
       <recent name="C:\Users\jopak\WebstormProjects\digitaalinenMedia\kuva_html_v2" />
+      <recent name="C:\Users\jopak\WebstormProjects\digitaalinenMedia\tehtava1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jopak\WebstormProjects\digitaalinenMedia\kuva_html_v2\img" />
       <recent name="C:\Users\jopak\WebstormProjects\digitaalinenMedia\tehtava1" />
     </key>
   </component>
@@ -126,7 +112,9 @@
       <option name="presentableId" value="Default" />
       <updated>1579601215214</updated>
       <workItem from="1579601216458" duration="6224000" />
-      <workItem from="1579617568388" duration="5155000" />
+      <workItem from="1579617568388" duration="7424000" />
+      <workItem from="1579691569401" duration="9129000" />
+      <workItem from="1579703049010" duration="421000" />
     </task>
     <task id="LOCAL−00001" summary="digitaalinen media tehtäviä">
       <created>1579607998737</created>
@@ -134,7 +122,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1579607998737</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="digitaalinen media tehtäviä">
+      <created>1579622800244</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1579622800244</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,17 +139,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="digitaalinen media tehtäviä" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1579607998312">
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579701049476">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579607998312" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1579701049476" />
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1579622799484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579622799484" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1579602845539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579602845539" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579608000439">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579622803032">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579608000439" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579622803032" />
+    <state x="491" y="325" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1579697793614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="325" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1579697793614" />
   </component>
 </project>

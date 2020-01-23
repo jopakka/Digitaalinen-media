@@ -1,56 +1,147 @@
 html {
-    scroll-margin-top: 50px;
+    scroll-behavior: smooth;
 }
 
 body {
     margin: auto;
-    padding: 20pt;
-    width: 1100px;
-    background-color: green;
-    font-family: sans-serif;
+    padding: 0;
+    background-color: #faffd9;
+    font-family: "Raleway", sans-serif;
+    position: relative;
+    font-size: 1em;
+    overflow: auto;
 }
 
 h1 {
+    padding: 0;
+    margin: auto auto 5pt;
     color: #0f0f0f;
 }
 
-.navBar {
-    height: 50px;
+p {
+    padding: 0;
+    margin: auto auto 10pt;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    margin: auto;
+    height: fit-content;
     width: 100%;
     background-color: grey;
+    box-shadow: 0 3px 3px 0 rgba(50, 50, 50, 0.5);
+}
+
+.navbarContent {
+    margin: auto;
+    overflow: hidden;
+    width: 1200px;
+    vertical-align: center;
+    height: fit-content;
+}
+
+.navbarLinks {
+    height: fit-content;
+    display: inline-block;
+}
+
+#links {
+    height: fit-content;
+    display: flex;
+    padding: 0;
+    margin: auto;
+}
+
+#links li {
+    height: fit-content;
+    margin: auto;
+    padding: 0;
+    list-style-type: none;
+}
+
+#links li a {
+    display: inline-block;
+    text-decoration: none;
+    color: #0f0f0f;
+    font-weight: 700;
+    font-size: 1.5em;
+    padding: 0 10pt;
+    line-height: 40pt;
+}
+
+#links li a:hover {
+    background-color: rgba(0,0,0,0.5);
+    color: #eee;
 }
 
 #kollaasiKuva {
-    background-color: coral;
+    margin: auto;
 }
 
 .mainContent {
-    background-color: #003366;
-}
-
-.kokoelma {
-    background-color: aqua;
-    padding: 10pt;
-    margin: 5pt 0;
-    text-align: center;
-}
-
-.kollaasi {
-    background-color: white;
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
+    background-color: #afffb9;
+    margin: 60px auto 20px;
+    width: 1100px;
+    padding: 0;
+}
+
+.kokoelma {
+    padding: 0 20pt 20pt;
+    margin: 5pt auto;
+    text-align: center;
+    width: max-content;
+}
+
+.kokoelma:not(:last-child) {
+    border-bottom: dashed grey 3pt;
+}
+
+.kollaasi {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin: auto;
+    padding: 0;
 }
 
 .rivi {
     display: flex;
+    flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: center;
     padding: 0;
     margin: auto;
+    line-height: 0;
 }
 
 .rivi img {
     padding: 0;
     margin: auto;
+}
+
+.kuvat {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.formaatti {
+    margin: 5pt;
+    width: 200pt;
+}
+
+.formaatti img {
+    width: 100%;
+}
+
+.formaatti tr, .formaatti th {
+    text-align: start;
+}
+
+.formaatti th {
+    padding-right: 3pt;
 }
